@@ -29,7 +29,7 @@
 <br/><br/>
 <br/><br/>
 
-### The King near The Eagle's wing:
+### The king near the eagle's wing:
 <br/><br/>
 
 ![image](https://user-images.githubusercontent.com/70543460/96308179-8f4ffa00-100b-11eb-81af-6f9052add0a7.png)
