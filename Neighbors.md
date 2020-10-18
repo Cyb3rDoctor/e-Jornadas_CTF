@@ -81,7 +81,7 @@ Unfortunately, the door number is not visible (or maybe I can't see it 😅)
 
 <br/><br/>
 
-### Note: During the CTF, I found the building number by checking the numbers of the nearby doors, but after the CTF I realized that I can find the number easily by checking an older street view capture:
+### Note: During the CTF, I figured out that door number by checking the numbers of the nearby doors, but after the CTF I realized that I can find the number easily by checking an older street view capture:
 
 (https://www.google.com/maps/@38.7589273,-9.2205495,3a,15y,96.86h,90.53t/data=!3m7!1e1!3m5!1sGJIoN5eqeEjsC-legjswzA!2e0!5s20090701T000000!7i13312!8i6656)
 
